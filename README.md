@@ -13,3 +13,9 @@ Everything needed to run the tests, including test data are included in the proj
 ## Installation
 
 pip install -r requirements.txt
+
+## Execution
+
+From working dir:
+
+./pytest_runner.bash
