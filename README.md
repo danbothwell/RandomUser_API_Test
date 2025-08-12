@@ -1,4 +1,4 @@
-# Authored by Daniel Bothwell
+# Authored by Daniel Bothwell - Daniel was here
 
 
 This is a simple Pytest testing suite that attempts to robustly test the API for 'https://randomuser.me/api'.
