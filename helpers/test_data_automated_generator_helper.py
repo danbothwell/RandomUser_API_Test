@@ -1,8 +1,3 @@
-'''
-Authored by Daniel Bothwell 
-For BlackSky Technical TakeHome
-11/2/2022
-'''
 import itertools
 
 def generate_password_data(password_options, password_character_sets=0):
