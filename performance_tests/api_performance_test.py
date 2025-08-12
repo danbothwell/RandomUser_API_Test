@@ -1,8 +1,3 @@
-'''
-Authored by Daniel Bothwell 
-For BlackSky Technical TakeHome
-11/2/2022
-'''
 import pytest
 import requests
 
