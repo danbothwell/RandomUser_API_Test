@@ -1,4 +1,3 @@
-# BlackSky Technical Take home
 # Authored by Daniel Bothwell
 
 
